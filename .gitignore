@@ -7,7 +7,7 @@
 *.vim
 *-shim.sbt
 .idea/
-/project/plugins/project
+/project
 project/boot
 target/
 /logs
